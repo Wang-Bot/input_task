@@ -1,8 +1,8 @@
 """Algorithm Structure Used
     Input fields: Name and Age
     Expected Output: so you are {Name} and {Age} years old. Nice to meet
-    Ask for name
-    Ask for age
+    Ask for name of user
+    Ask for age or user
     Validate age as a number 
     Output
 """
