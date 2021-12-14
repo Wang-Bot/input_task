@@ -3,7 +3,7 @@
     Expected Output: so you are {Name} and {Age} years old. Nice to meet
     Ask for name
     Ask for age
-    Validate age as a number
+    Validate age as a number 
     Output
 """
 
