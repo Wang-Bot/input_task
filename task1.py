@@ -2,7 +2,7 @@
     Input fields: Name and Age
     Expected Output: so you are {Name} and {Age} years old. Nice to meet
     Ask for name of user
-    Ask for age or user
+    Ask for age of user
     Validate age as a number 
     Output
 """
